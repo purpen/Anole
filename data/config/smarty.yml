@@ -1,0 +1,4 @@
+all:
+    cache_dir:"/Users/purpen/working/Anole/build/tmp/cache"
+    compile_dir:"/Users/purpen/working/Anole/build/tmp/templates_c"
+    template_dir:"/Users/purpen/working/Anole/data/templates"

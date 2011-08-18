@@ -1,0 +1,6 @@
+all:
+    smarty:Anole_Dispatcher_Result_Smarty
+    redirect:Anole_Dispatcher_Result_Redirect
+    raw:Anole_Dispatcher_Result_Raw
+    json:Anole_Dispatcher_Result_Json
+    jquery:Anole_Dispatcher_Result_JQuery

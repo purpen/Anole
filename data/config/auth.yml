@@ -1,0 +1,3 @@
+all:
+    default:Anole_Auth_Authentication_Provider_Session
+    authen_action:Anole_Auth_Authentication_Action

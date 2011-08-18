@@ -1,0 +1,3 @@
+all:
+    id:'anole.app.app'
+    storage.class:'Anole_Session_Storage_Php'

@@ -1,0 +1,9 @@
+#Class Loader Setting
+all:
+    .class_path
+    3rd_path:
+        - "/Users/purpen/working/Anole/3rd"
+    class_path:
+        - "/Users/purpen/working/Anole/src"
+    .auto_load
+    auto_load:

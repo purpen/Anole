@@ -1,0 +1,5 @@
+all:
+    dev:
+        default:'adodb://mysqli://root:@localhost/xiaba?charSet=utf8'
+    test:
+        default:'adodb://mysqli://root:@localhost/xiaba?charSet=utf8'

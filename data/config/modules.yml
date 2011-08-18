@@ -1,0 +1,9 @@
+---
+all: 
+  default: Doggy
+  Doggy: 
+    default_action: Doggy
+    actived: 0
+  Blog: 
+    default_action: Blog
+    actived: 1

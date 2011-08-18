@@ -1,0 +1,11 @@
+all:
+    default:Anole_Storage_Provider_FileSystem
+    Anole_Storage_Provider_FileSystem:
+        root:"/storage/c"
+        root_url:'http://anole.com/c'
+    share:
+        provider:'Anole_Storage_Provider_FileSystem'
+        options:
+            root:"/storage/c"
+            root_url:'http://anole.com/c'
+            hash_dir:false
